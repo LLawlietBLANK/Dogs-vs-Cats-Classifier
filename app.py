@@ -20,7 +20,7 @@ def load_cat_dog_model():
 
 model = load_cat_dog_model()
 
-st.title("🐱 Cat vs 🐶 Dog Classifier")
+st.title("Cat vs Dog Classifier Using CNN")
 
 uploaded_file = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
 if uploaded_file:
