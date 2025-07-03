@@ -6,7 +6,7 @@ import os
 import requests
 from tensorflow.keras.models import load_model
 
-MODEL_URL = "https://huggingface.co/LLawlietBLANK/Dogs-vs-Cats-Classifier/blob/main/dogsVcats.keras"
+MODEL_URL = "https://huggingface.co/LLawlietBLANK/Dogs-vs-Cats-Classifier/resolve/main/dogsVcats.keras"
 MODEL_PATH = "dogsVcats.keras"
 
 @st.cache_resource
