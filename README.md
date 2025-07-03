@@ -1,0 +1,1 @@
+A basic deep learning project that uses Convolutional Neural Network (CNN) to classify the images into cats and dogs.
